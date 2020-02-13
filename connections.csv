@@ -1,0 +1,35 @@
+line,origin,dest,dir
+red,crab claw,100 acre wood,south jungle
+orange,crab claw,100 acre wood,clockwise
+orange,100 acre wood,square harbour,clockwise
+orange,square harbour,fin bay,clockwise
+orange,fin bay,j peninsula,clockwise
+orange,j peninsula,crater,clockwise
+orange,crater,south jungle,clockwise
+orange,south jungle,jungle bay,clockwise
+orange,jungle bay,great taiga,clockwise
+orange,great taiga,mushroom forrest,clockwise
+yellow,great taiga,mushroom forrest,clockwise
+orange,mushroom forrest,oxbow lake,clockwise
+orange,oxbow lake,crab claw,clockwise
+red,100 acre wood,livvy tower,
+red,livvy tower,town center,
+red,town center,lagoon,
+red,lagoon,puddle,
+red,puddle,south jungle,
+DarkBlue,south jungle,jungle bay,
+DarkBlue,jungle bay,jungle bridge,
+DarkBlue,jungle bridge,jungle cave,
+DarkBlue,jungle cave,ne jungle,
+DarkBlue,ne jungle,jungle twist,
+yellow,great taiga,ne jungle,
+yellow,ne jungle,lookout tower,
+yellow,lookout tower,mushroom forrest,
+yellow,mushroom forrest,stomach,
+yellow,stomach,chocolate house,
+yellow,chocolate house,town center,
+yellow,town center,lagoon,
+yellow,lagoon,village,
+yellow,village,ravine,
+yellow,ravine,square harbour,
+yellow,square harbour,j peninsula,
